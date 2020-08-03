@@ -1,4 +1,5 @@
 # Notepad
-A simple notepad made with PySimpleGUI, heavily inspired by https://github.com/israel-dryer
+A simple notepad made with [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/), project heavily inspired by https://github.com/israel-dryer
 
-![alt text] (https://github.com/MarceloTerra0/Notepad/tree/master/screenshots/screenshot01.png?raw=true)
+![](screenshots/screenshot01.png)
+![](screenshots/screenshot02.png)
