@@ -101,12 +101,7 @@ class Notepad:
 				self.window.close()
 				bodyAndInfo = (filename, self.values.get('_BODY_'))
 				break
-			if self.event != '__TIMEOUT__':
-				#time.sleep(2)
-				#self.window['_BODY_'].update(value=self.event)
-				print(self.event)
-				if self.event == u"\u2386":
-					print("sexo?")
+
 
 if __name__ == '__main__':
 	theme = 'DarkBlue'
