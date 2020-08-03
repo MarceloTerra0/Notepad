@@ -57,7 +57,7 @@ class Notepad:
 			return file
 
 	def about_me(self):
-		sg.popup_no_wait('Olá! Será que posso esconder algum easter egg aqui?')
+		sg.popup_no_wait('Hello there!')
 
 	def run(self):
 		global theme
